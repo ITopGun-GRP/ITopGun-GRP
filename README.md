@@ -12,7 +12,7 @@
   </a>
  </div> 
   <div id="badges">
-    <a href="https://www.guru.com/freelancers/peter-la-brash">
+    <a href="https://www.freelancer.com/u/olgicakrsteva">
       <img src="https://img.shields.io/badge/Freelancer-blue?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer Badge"/>
     </a>
     <a href="https://myaccount.google.com/pb891215@gmail.com">
