@@ -13,7 +13,7 @@
  </div> 
   <div id="badges">
     <a href="https://www.guru.com/freelancers/peter-la-brash">
-      <img src="https://img.shields.io/badge/Freelancer-blue?style=for-the-badge&logo=upwork&logoColor=white" alt="Freelancer Badge"/>
+      <img src="https://img.shields.io/badge/Freelancer-blue?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer Badge"/>
     </a>
     <a href="https://myaccount.google.com/pb891215@gmail.com">
       <img src="https://img.shields.io/badge/Google-red?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
@@ -33,6 +33,8 @@
   
 </div>
 
+---
+
 ### :family_man_man_boy_boy: About Us :
 <div> 
 
@@ -49,6 +51,16 @@
 
  
 </div>
+
+---
+
+### :star2: Our Experiences :star2:
+
+- :point_right: Social networking: Dating, Events management, Photo & Video Sharing
+- :point_right: Health & Fitness training, Running, Bodybuilding
+- :point_right: Cinema, Music, Radio, TV Streaming
+- :point_right: Fashion & Shopping
+- :point_right: Real-estate, Hotel & Flight, Food & Recipe
 
 ---
 
