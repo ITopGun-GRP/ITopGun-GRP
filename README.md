@@ -33,6 +33,25 @@
   
 </div>
 
+### :family_man_man_boy_boy: About Us :
+<div> 
+
+ - :sun_with_face: We have 7+ years of experience in web and mobile app development.
+   Now, we wanna be one of the top freelancer contractors with all of our work experience and our own technical know-how, providing high-quality products to our           business partners.
+   
+ - :zap: Creating new apps from the ground up
+ 
+ - :cheese: Updating or fixing existing applications
+ 
+ - :spider_web: Performing code reviews
+
+ - :seedling: Exploring Technical Content Writing.
+
+ 
+</div>
+
+---
+
 ### Languages
 
 ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
