@@ -103,3 +103,15 @@
 ![mysql](https://img.shields.io/badge/MySQL-00618b?style=for-the-badge&logo=mysql&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![graphql](https://img.shields.io/badge/GraphQl-e535ab?style=for-the-badge&logo=graphql&logoColor=white)
+
+## How can I support developers?
+
+- Star our GitHub repo :star:
+- Create pull requests, submit bugs, suggest new features or documentation updates :wrench:
+- Follow [@ITopGun on Github](https://github.com/ITopGun).
+
+## More from ITopGun
+
+- [React Native Starter](https://github.com/ITopGun/React-Native-Starter) - 🚀 A powerful react native starter template that bootstraps development of your mobile application
+- [React Dashboard](https://github.com/ITopGun/React-Dashboard.git) - 🔥 React Dashboard - isomorphic admin dashboard template with GraphQL
+- [Light Blue Dashboard](https://github.com/flatlogic/light-blue-dashboard) - 💦 Free and open-source admin dashboard template built with Bootstrap
