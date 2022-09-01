@@ -115,3 +115,4 @@
 - [React Native Starter](https://github.com/ITopGun/React-Native-Starter) - 🚀 A powerful react native starter template that bootstraps development of your mobile application
 - [React Dashboard](https://github.com/ITopGun/React-Dashboard.git) - 🔥 React Dashboard - isomorphic admin dashboard template with GraphQL
 - [Light Blue Dashboard](https://github.com/flatlogic/light-blue-dashboard) - 💦 Free and open-source admin dashboard template built with Bootstrap
+- [✔️React Material Admin](https://github.com/ITopGun/React-MUI-Admin) - React Material Admin — Material-UI Dashboard
